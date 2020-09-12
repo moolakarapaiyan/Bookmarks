@@ -1,0 +1,3 @@
+https://owasp.org/www-pdf-archive/AppsecEU09_CarettoniDiPaola_v0.8.pdf
+https://blog.intigriti.com/hackademy/http-parameter-pollution-hpp/
+https://www.youtube.com/watch?v=QVZBl8yxVX0
