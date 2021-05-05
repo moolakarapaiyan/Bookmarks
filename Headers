@@ -1,2 +1,5 @@
 Accept-Encoding: gzip, deflate
   -> https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/
+ 
+ CSP
+  -> https://blog.shiftleft.io/intro-to-the-content-security-policy-csp-c29266fa095f
